@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Sue+Ellen+Francisco|Syncopate&display=swap');
+
+.navbar-toggler {
+    border: none !important;
+}
+
+/* 
+font-family: 'Syncopate', sans-serif;
+font-family: 'Sue Ellen Francisco', cursive; 
+*/
+
+.navbar-brand {
+    font-family: 'Syncopate', sans-serif;  
+}
+
+.btn {
+    border-radius: 0;
+}
+
+
+/* Photo by pine watt on Unsplash */
