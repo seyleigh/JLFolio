@@ -17,5 +17,8 @@ font-family: 'Sue Ellen Francisco', cursive;
     border-radius: 0;
 }
 
+.fa-linkedin, .fa-github {
+    font-size: 1.7rem;
+}
 
 /* Photo by pine watt on Unsplash */
