@@ -21,4 +21,13 @@ font-family: 'Sue Ellen Francisco', cursive;
     font-size: 1.7rem;
 }
 
+.img-fluid {
+    padding-bottom: 2rem;
+}
+
+.project-text {
+    line-height: 2rem;
+    letter-spacing: .2rem;
+}
+
 /* Photo by pine watt on Unsplash */
