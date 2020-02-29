@@ -30,4 +30,7 @@ font-family: 'Sue Ellen Francisco', cursive;
     letter-spacing: .2rem;
 }
 
+#about, p {
+    letter-spacing: .25rem;
+}
 /* Photo by pine watt on Unsplash */
